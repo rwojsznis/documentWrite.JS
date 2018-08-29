@@ -1,6 +1,6 @@
-# documentWrite.JS
-
-The Last Javascript Framework you will ever need
+<p align="center">
+  <img width="600" height="600" src="https://github.com/emq/documentWrite.JS/raw/master/logo.png">
+</p>
 
 ## Philosophy
 
